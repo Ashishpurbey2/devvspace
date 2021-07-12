@@ -1,4 +1,4 @@
-/* eslint-disable */ alert('foo')
+/* eslint-disable */
 import '../styles/globals.css'
 
 function MyApp({ Component, pageProps }) {

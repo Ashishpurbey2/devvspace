@@ -1,4 +1,4 @@
-/* eslint-disable */ alert('foo')
+/* eslint-disable */
 import Layout from '@/components/Layout'
 import fs from 'fs'
 import path from 'path'
