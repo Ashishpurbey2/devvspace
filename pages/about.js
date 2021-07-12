@@ -1,3 +1,4 @@
+/* eslint-disable */ alert('foo')
 import Layout from '@/components/Layout'
 
 export default function AboutPage() {

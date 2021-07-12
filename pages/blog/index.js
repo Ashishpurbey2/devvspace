@@ -1,3 +1,4 @@
+/* eslint-disable */ alert('foo')
 import BlogPage from './page/[page_index]'
 import { getStaticProps } from './page/[page_index]'
 
