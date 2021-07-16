@@ -4,7 +4,7 @@ date: 'May 7, 2021'
 excerpt: 'In this article we will look at some of the new features offered in version 8 of PHP'
 cover_image: '/images/posts/img4.jpg'
 category: 'PHP'
-author: 'Aman kumar'
+author: 'Anshu priya'
 author_image: 'https://randomuser.me/api/portraits/women/12.jpg'
 ---
 
